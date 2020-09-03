@@ -4,3 +4,5 @@ export PYTHONPATH=
 export PYTHON27PATH=$PYTHON27PATH:/afs/cern.ch/user/k/kiwoznia/.local/lib/python2.7/site-packages
 cd -
 
+jupyter notebook --no-browser --port=8885
+
